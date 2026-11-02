@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+python探测器+👋;Python+%C2%B7+Automation+%C2%B7+AI+Tools;Tinkering+with+pipelines+%26+small+utilities" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Python+Developer;Automation+and+AI+Tools;Building+small+useful+things" alt="Python Developer" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=PA5MIN&style=flat-square&color=58a6ff)
 ![Followers](https://img.shields.io/github/followers/PA5MIN?style=flat-square&color=58a6ff)
@@ -36,8 +36,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PA5MIN&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PA5MIN&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=PA5MIN&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
